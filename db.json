@@ -22,11 +22,11 @@
          }
       ]
    },
-    { 
-        "id":2,
-        "title":"Monthly Average Rainfall",
-        "subtitle": "Source: WorldClimate.com",
-        "xValues":[ 
+    {   
+     "id":2,
+     "title":"Monthly Average Rainfall",
+     "subtitle": "Source: WorldClimate.com",
+     "xValues":[ 
         "Jan",
         "Feb",
         "Mar",
@@ -40,7 +40,7 @@
         "Nov",
         "Dec"
         ],
-        "series":[ 
+      "series":[ 
         { 
         "xaxis":"Month",
         "yaxis":"value",
