@@ -22,23 +22,28 @@
 		},
 		{
 			"id": 2,
-			"title": "Total College Details",
-			"sum": 25,
+			"title": "Islands",
+			"sum": 35,
 			"series": [{
-					"name": "Engineering",
+					"name": "Andaman & Nicobar",
 					"y": 12,
 					"color": " #FFD025"
 				},
 				{
-					"name": "Medical",
+					"name": "Maldives",
 					"y": 7,
 					"color": "#DB8F25"
 				},
 				{
-					"name": "Arts",
+					"name": "Bali",
 					"y": 6,
 					"color": "#D4534C"
-				}
+				},
+				   {
+				   	"name":"",
+					 "y":10,
+					 "color":"#006400"
+				   }
 			]
 		}
 	]
