@@ -21,9 +21,10 @@
 			]
 		},
 		{
-			"id": 2,
-			"title": "Islands",
-			"sum": 35,
+			"minPointSize": 10,
+        "innerSize": "20%",
+        "zMin": 0,
+        "name": "countries",
 			"series": [{
             "name": "Spain",
             "y": 505370,
