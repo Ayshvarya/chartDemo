@@ -62,8 +62,6 @@
 	],
 	"chart": [{
 			"id": 1,
-			"title": "Monthly Average Rainfall",
-			"subtitle": "Source: WorldClimate.com",
 			"xValues": [
 				"Jan",
 				"Feb",
